@@ -33,7 +33,6 @@
 </br>
 <div align="center">
 <img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshi-Caw&theme=blueberry_duo">
-<img align=top >
 <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeshi-Caw&layout=compact">
 </div>
 </br>

@@ -31,7 +31,7 @@
 
 <b> GitHub Statistics : </b>
 </br>
-<img align=top src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshi-Caw&theme=blueberry_duo">
-<img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeshi-Caw&layout=compact">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshi-Caw&theme=blueberry_duo">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeshi-Caw&layout=compact">
 </br>
 

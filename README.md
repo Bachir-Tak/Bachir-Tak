@@ -1,4 +1,4 @@
- <b>Hi, I’m Takeshi:</b>
+ <b>Hi, I’m Bachir:</b>
  
  :computer: Pursuing studies in computer engineering.</br>
  :busts_in_silhouette: Creating apps and software targeted to the general public.</br>

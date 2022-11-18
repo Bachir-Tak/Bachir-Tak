@@ -31,11 +31,11 @@
 
 <b> GitHub Statistics : </b>
 </br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshi-Caw&theme=blueberry_duo">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bachir-Tak&theme=blueberry_duo">
 </br>
 
 <hr>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takeshi-Caw&layout=compact&theme=blueberry">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bachir-Tak&layout=compact&theme=blueberry">
 </br>
 

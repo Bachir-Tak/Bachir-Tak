@@ -1,14 +1,16 @@
  <b>Hi, I’m Bachir:</b>
- 
+
  :computer: Pursuing studies in computer engineering.</br>
  :busts_in_silhouette: Creating apps and software targeted to the general public.</br>
  :gear: Love automating things.</br>
  :joystick: Creating and playing Video games is my Jam !</br>
 
+
 <hr>
+<div  align="center">
 
 <b>Languages and Tools :</b>
-<div>
+<div  align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -26,16 +28,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="Pytorch" **alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>
 </div>
+</div>
 
 <hr>
-
+<div align="center">
 <b> GitHub Statistics : </b>
 </br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bachir-Tak&theme=blueberry_duo">
 </br>
-
+</div>
 <hr>
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bachir-Tak&layout=compact&theme=blueberry">
 </br>
-
+</div>
